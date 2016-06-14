@@ -1,0 +1,30 @@
+ul {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+
+.top {
+    float:right;
+}
+
+li {
+    display: inline;
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+}
+
+
+#footer {
+    position:fixed;
+    bottom:0;
+}
+
+#centerpiece {
+    text-align:center;
+    display:inline-block;
+}
